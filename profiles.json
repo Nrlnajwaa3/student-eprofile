@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Nurul Najwa Binti Sulaiman",
+        "student_id": "2024783107",
+        "dob": "01-03-2003",
+        "gender": "Female",
+        "phone": "012-2040564",
+        "address": "No 14, Jalan 3/16, Seksyen 3, Bandar Baru Bangi, 43650, Selangor",
+        "campus": "Machang",
+        "course": "CDIM262",
+        "current_semester": 4,
+        "advisor": "Sir Zafian",
+        "image": "profile/profile1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nur Juliana Binti Hassan",
+        "student_id": "2024533987",
+        "dob": "11-04-2002",
+        "gender": "Female",
+        "phone": "011-9047865",
+        "address": "No 3A, Jalan Putra Mahkota, 43650, Selangor",
+        "campus": "Machang",
+        "course": "CDIM262",
+        "current_semester": 5,
+        "advisor": "Sir Faiz",
+        "image": "profile/profile2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Siti Athirah Binti Zaid",
+        "student_id": "2024408309",
+        "dob": "9-05-2002",
+        "gender": "Female",
+        "phone": "012-6798034",
+        "address": "No 15, Jalan 4/3A, Seksyen 4, Bandar Baru Bangi, 43650, Selangor",
+        "campus": "Machang",
+        "course": "CDIM262",
+        "current_semester": 5,
+        "advisor": "Sir Faizal",
+        "image": "profile/profile3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Muhammad Bin Abu Sufian",
+        "student_id": "2024822789",
+        "dob": "10-07-2003",
+        "gender": "Male",
+        "phone": "012-6458097",
+        "address": "No 1, Jalan Precint 2, 43650, Selangor",
+        "campus": "Machang",
+        "course": "CDIM262",
+        "current_semester": 4,
+        "advisor": "Madam Idayu",
+        "image": "profile/profile4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Muhammad Amir Al Shakir Bin Muhammad Nasri",
+        "student_id": "2024893329",
+        "dob": "18-06-2003",
+        "gender": "Male",
+        "phone": "011-61449524",
+        "address": "No 3, Jalan Tun ABdul Aziz, 43650, Selangor",
+        "campus": "Machang",
+        "course": "CDIM262",
+        "current_semester": 4,
+        "advisor": "Sir Zafian",
+        "image": "profile/profile5.png"
+    }
+]
