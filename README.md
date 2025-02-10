@@ -11,7 +11,7 @@ Students may efficiently keep and show their academic and personal information u
      ![WhatsApp Image 2025-02-10 at 7 28 00 PM](https://github.com/user-attachments/assets/2c063c25-dc81-43f7-af15-fda4ff153353)
 
   3. Profile List Page
-     ![WhatsApp Image ](https://github.com/user-attachments/assets/511c8f59-a127-4a2a-9142-5702b074fe2d)
+    <img width="1440" alt="Screenshot 2025-02-10 at 9 06 15 PM" src="https://github.com/user-attachments/assets/c1ba5840-38f0-4710-bda8-df4668ed3359" />
 
   4. Profile Detail Page
      ![WhatsApp Image 2025-02-10 at 7 28 01 PM](https://github.com/user-attachments/assets/f31cc07b-58c9-408d-9d72-992919eb8630)
